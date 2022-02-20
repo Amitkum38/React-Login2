@@ -1,0 +1,22 @@
+
+/*-------------------------------------------------------------------------------------------------------------------------*/
+										/*  Login Page Start */
+/*------------------------------------------------------------------------------------------------------------------------*/
+body {background: #353535;background-repeat: repeat;background-size: auto;overflow: hidden;}
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+.login-pos { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 450px; background: #fff; border-radius: 10px; }
+.login-pos .logo-col .login-logo a img { text-align: center; margin: 0 auto; width: 60%; }
+.login-pos .logo-col { padding: 15% 10% 5% 10%; height: 100%; vertical-align: middle; }
+.login-pos .logo-col .login-logo { margin-bottom: 40px; }
+.login-pos .logo-col .form-group .input-group .input-group-addon {  width: 45px; border-left: none; border-right: none; border-top: none; box-shadow: none; border-bottom: 1px #e5e5e5 solid; border-radius: 0; }
+.login-pos .logo-col .form-group .input-group .input-group-addon.input-group-addon-pass { width: 45px; border-left: none; border-right: none; border-top: none; box-shadow: none; border-bottom: 1px #e5e5e5 solid; border-radius: 0; }
+.login-pos .logo-col .form-group .input-group .form-control {height: 60px;font-size: 16px; border-left: none;border-right: none;border-top: none;box-shadow: none;border-bottom: 1px #e5e5e5 solid;border-radius: 0;color: #000000;font-weight: 300;font-family: 'Open Sans', sans-serif;}
+form.navbar-form input.form-control { height: 55px; border-radius: 0; }
+form.navbar-form button.btn.btn-success { background: #fe6379; border: transparent; font-size: 18px; padding: 15px 35px; border-radius: 0; text-transform: uppercase; }
+form.navbar-form input.form-control { height: 55px; border-radius: 0; font-size: 18px; width: 100%; }
+.login-pos .logo-col .form-group .input-group { width: 100%; margin-bottom: 22px; }
+input.btn.btn-default { border: 1px #fe6379 solid; background: #fe6379; font-size: 16px; color: #fff; text-transform: uppercase; padding: 13px 0; margin: 25px auto; float: none; display: block; width: 75%; }
+
+/*-------------------------------------------------------------------------------------------------------------------------*/
+										/*  Login Page End */
+/*------------------------------------------------------------------------------------------------------------------------*/
